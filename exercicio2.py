@@ -1,7 +1,5 @@
-# Python_orientado_a_objetos
 def tupla_par(tupla):
 	lista = []
-	x = 0
 	for i in range(0, len(tupla)):
 		if i%2==0:
 			lista.append(tupla[i])
